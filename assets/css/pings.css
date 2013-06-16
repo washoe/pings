@@ -1,0 +1,21 @@
+.ping {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	padding-bottom: 20px;
+	text-align:center;
+}
+
+.ping p {
+	padding-bottom: 20px
+}
+
+#enclosure > div{
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.container-fluid {
+	margin-top:10%
+}
